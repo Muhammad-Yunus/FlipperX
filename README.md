@@ -14,7 +14,7 @@ Flipper Zero Clone using ESP8266
 	</tr>
 	<tr>
 		<td><i>orintation (gyro & accel)</i></td>
-		<td><i>compas</i></td>
+		<td><i>compass</i></td>
 		<td><i>ntp clock</i></td>
 	</tr>
 	<tr>
