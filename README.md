@@ -32,4 +32,4 @@ Flipper Zero Clone using ESP8266
 	</tr>
 </table>
 <br><br>
-- *schematics? updated soon!*
+*schematics? updated soon!*
