@@ -3,7 +3,7 @@ Flipper Zero Clone using ESP8266
 
 <table>
 	<tr>
-		<td><img src="img/pic-1.jpg"  alt="1" width = 360px></td>
+		<td><img src="img/pic-1.jpg"  alt="1" width = 360px><i>splash screen</i></td>
 		<td><img src="img/pic-2.jpg"  alt="2" width = 360px></td>
 		<td><img src="img/pic-3.jpg"  alt="3" width = 360px></td>
 	</tr>
