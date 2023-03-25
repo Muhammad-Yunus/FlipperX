@@ -31,3 +31,5 @@ Flipper Zero Clone using ESP8266
 		<td><img src="img/pic-8.jpg"  alt="8" width = 300px></td>
 	</tr>
 </table>
+<br><br>
+- *schematics? updated soon!*
